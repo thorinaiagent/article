@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"systemMessage\":\"Напоминание: допиши WORKLOG.md (задача → шаги → результат) и занеси возникшие проблемы в BACKLOG.md.\"}'"
+          }
+        ]
+      }
+    ]
+  }
+}
