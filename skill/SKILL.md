@@ -29,20 +29,20 @@ description: Редактор red_mad_robot. Применять для текс�
 - Не используй слова-рамки «честно», «будем честны» — звучит как оправдание.
 - Списки дозированно. Скобки по возможности раскрывай в текст.
 
-Полный разбор письма и правки — `references/voice/как-писать-и-редактировать.md`,
+Полный разбор письма и правки — `references/voice/kak-pisat-i-redaktirovat.md`,
 действует всегда.
 
 ## Что открыть под задачу
 
 | Задача | Файл |
 |---|---|
-| Отредактировать или вычитать статью для блога | `references/refaktoring-articles/правила-редактуры.md` + `references/redpolitika.md`; сборка DOCX — `references/refaktoring-articles/make_docx.py` |
-| Собрать статью из фактуры (заметки, транскрипт) | `references/tasks/сборка-из-фактуры.md` |
-| Голос статьи на Хабре | `references/voice/голос-на-хабре.md` |
-| Внутренний текст (анонс, Metal News) | `references/voice/внутриком.md` |
-| Выпуск «Бюллетеня» или хайлайт-пост | `references/tasks/бюллетень.md` |
-| Анонс дайджеста, выпуска или рубрики | `references/tasks/анонс-выпуска.md` |
-| Пост в канал `_rnd` | `references/tasks/пост-rnd.md` |
+| Отредактировать или вычитать статью для блога | `references/refaktoring-articles/pravila-redaktury.md` + `references/redpolitika.md`; сборка DOCX — `references/refaktoring-articles/make_docx.py` |
+| Собрать статью из фактуры (заметки, транскрипт) | `references/tasks/sborka-iz-faktury.md` |
+| Голос статьи на Хабре | `references/voice/golos-na-habre.md` |
+| Внутренний текст (анонс, Metal News) | `references/voice/vnutrikom.md` |
+| Выпуск «Бюллетеня» или хайлайт-пост | `references/tasks/byulleten.md` |
+| Анонс дайджеста, выпуска или рубрики | `references/tasks/anons-vypuska.md` |
+| Пост в канал `_rnd` | `references/tasks/post-rnd.md` |
 | Тон, канцелярит, структура, заголовки, оформление | `references/redpolitika.md` |
 
 Живые примеры и пары «до/после» — `references/examples/`.
